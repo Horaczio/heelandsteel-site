@@ -12,7 +12,7 @@ This policy explains what Heel & Steel keeps about you, why, who else handles it
 
 ## Who is responsible
 
-Heel & Steel is made by Albert Teiml, a sole trader in the Czech Republic (IČO 23781955, Ke Kapličce 523, 252 41 Dolní Břežany, Czech Republic). In this policy "we" means them. We are the data controller: the one responsible for your data under the EU's General Data Protection Regulation (GDPR).
+Heel & Steel is made by Albert Teiml, a sole trader in the Czech Republic (business details in the [legal notice](/legal/)). In this policy "we" means them. We are the data controller: the one responsible for your data under the EU's General Data Protection Regulation (GDPR).
 
 Contact for anything about your data: [support@heelandsteel.com](mailto:support@heelandsteel.com).
 

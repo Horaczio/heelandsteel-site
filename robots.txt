@@ -1,0 +1,3 @@
+# The legal notice must be on the site, but it need not be in search results.
+User-agent: *
+Disallow: /legal/

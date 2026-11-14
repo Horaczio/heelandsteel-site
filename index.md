@@ -20,4 +20,4 @@ Your hero takes on quests at the pub, and your real steps carry them through. Wa
 
 ---
 
-<small>Heel & Steel is made by Albert Teiml, IČO 23781955, Ke Kapličce 523, 252 41 Dolní Břežany, Czech Republic. Contact: [support@heelandsteel.com](mailto:support@heelandsteel.com).</small>
+<small>Contact: [support@heelandsteel.com](mailto:support@heelandsteel.com) · [Legal notice](/legal/)</small>

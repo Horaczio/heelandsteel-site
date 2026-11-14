@@ -12,7 +12,7 @@ These terms are the agreement between you and the maker of Heel & Steel when you
 
 ## 1. Who we are
 
-Heel & Steel is made by Albert Teiml, a sole trader in the Czech Republic (IČO 23781955, Ke Kapličce 523, 252 41 Dolní Břežany, Czech Republic), "we" in these terms. Contact: [support@heelandsteel.com](mailto:support@heelandsteel.com).
+Heel & Steel is made by Albert Teiml, a sole trader in the Czech Republic (business details in the [legal notice](/legal/)), "we" in these terms. Contact: [support@heelandsteel.com](mailto:support@heelandsteel.com).
 
 The app itself is licensed to you under Apple's standard licence for App Store apps (the Licensed Application End User License Agreement). These terms add the rules of the game. Apple is not responsible for the game or for these terms.
 
