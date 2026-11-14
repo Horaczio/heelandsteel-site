@@ -8,7 +8,7 @@ permalink: /privacy/
 **Heel & Steel: Walking RPG**
 Last updated: 14 November 2026
 
-This policy explains what Heel & Steel keeps about you, why, who else handles it, and what you can do about it. It is written to be read, not skimmed past. If anything is unclear, write to [support@heelandsteel.com](mailto:support@heelandsteel.com).
+This policy explains what Heel & Steel keeps about you, why, who else handles it, and what you can do about it.
 
 ## Who is responsible
 
