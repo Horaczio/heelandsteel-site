@@ -1,0 +1,8 @@
+# GitHub Pages (Jekyll) settings for the game's website. See README.md.
+title: Heel & Steel
+description: The fantasy RPG you play by walking.
+theme: minima
+exclude:
+  - README.md
+  # Not in effect until paid premium is on sale.
+  - purchases.md
