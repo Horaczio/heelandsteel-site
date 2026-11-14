@@ -2,6 +2,8 @@
 title: Heel & Steel
 description: The fantasy RPG you play by walking.
 theme: minima
+include:
+  - .well-known
 exclude:
   - README.md
   # Not in effect until paid premium is on sale.

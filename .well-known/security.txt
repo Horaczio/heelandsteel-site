@@ -1,0 +1,6 @@
+# Found a security problem in Heel & Steel? Please tell us privately; we answer every report.
+Contact: mailto:support@heelandsteel.com
+Expires: 2027-11-14T00:00:00Z
+Preferred-Languages: en, cs
+Canonical: https://heelandsteel.com/.well-known/security.txt
+Policy: https://heelandsteel.com/privacy/

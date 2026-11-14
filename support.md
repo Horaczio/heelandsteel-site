@@ -28,6 +28,10 @@ Steps from Apple Health count, from every source that writes to it: your iPhone,
 
 Settings in the game shows whether Motion & Fitness is allowed.
 
+### Playing safely
+
+Keep the phone in your pocket: steps count with the app closed, and the game never needs you to look at it while walking. Watch where you are going, follow traffic rules, and walk only as much as is right for you. More in the [terms of use](/terms/#walk-safely).
+
 ### What is live view?
 
 When you lock in a quest, the game can show your walk on the lock screen and in the Dynamic Island, and tell you the moment the quest is done. Steps count with or without it. Turn it off in Settings > Start live view on lock-in.

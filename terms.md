@@ -22,9 +22,19 @@ You must be **13 or older** (owner, 2026-11-14). If you are under 18, make sure 
 
 A guest hero (not saved with Apple or Google) lives only on its phone. If the phone is lost or the app is deleted, the hero cannot be recovered.
 
-## 3. Walk safely
+## 3. Walk safely {#walk-safely}
 
-Heel & Steel gets you walking. Look up from your phone, watch for traffic, stay off private property, and walk only where and as much as is safe for you. The game is entertainment, not medical or fitness advice; if you have a health condition, ask your doctor about how much to walk. You play at your own risk, and we are not responsible for what happens around you while you walk.
+Heel & Steel counts the steps you walk anyway. It never tells you where, when or how far to walk, it does not use your location, and you never need to look at it while walking: steps count with the phone in your pocket and the app closed.
+
+**You decide where, when and how you walk, and you are responsible for doing it safely.** In particular:
+
+- Keep your eyes on where you are going, not on the screen. Stop somewhere safe before you use your phone.
+- Follow traffic rules, watch for cars, bikes and other people, and take extra care in the dark, in bad weather and near roads, water and railways.
+- Stay off private property and out of places where you are not allowed to be.
+- Walk only as far and as often as is right for your body. The game is entertainment, not medical, health or fitness advice. If you have a health condition, are pregnant, or are unsure how much walking is right for you, ask a doctor first. Stop if you feel pain, dizziness or shortness of breath.
+- Players under 18: walk where your parents or guardians are happy for you to walk.
+
+We are not responsible for harm that comes from how, where or when you choose to walk, or from things around you that we do not control (such as traffic, the weather or other people), as far as the law allows. This does not limit our responsibility where the law does not allow it to be limited, including for harm to your life or health that we cause ourselves.
 
 ## 4. Play fair
 
@@ -64,7 +74,7 @@ We work to keep the game running, but we cannot promise it will always be availa
 
 ## 10. Liability
 
-We are responsible for harm we cause on purpose or through gross negligence, and for anything the law does not let us exclude. Otherwise, as far as the law allows, we are not responsible for indirect loss, lost progress, or harm caused by things outside our control. Nothing in these terms takes away the rights you have as a consumer under the law of the country where you live.
+We are responsible for harm we cause on purpose or through gross negligence, for harm to life or health that we cause, and for anything else the law does not let us exclude. Otherwise, as far as the law allows, we are not responsible for indirect loss, lost progress, or harm caused by things outside our control. Nothing in these terms takes away the rights you have as a consumer under the law of the country where you live.
 
 ## 11. Changes to these terms
 
