@@ -10,7 +10,7 @@ permalink: /support/
 ## Get in touch
 
 - **Email:** [support@heelandsteel.com](mailto:support@heelandsteel.com). For problems, questions, account and data requests, and appeals. We answer as soon as we can, usually within a few days.
-- **Telegram:** [t.me/heelandsteel](https://t.me/heelandsteel). The player community: news, tips, and talking to other walkers. Please do not post account details there; use email for anything about your account.
+- **Telegram:** [t.me/heelandsteel](https://t.me/heelandsteel). The player community: news, tips, and talking to other walkers. Please do not post account details there; use email for anything about your account. Admins never message you first to ask for passwords or codes ([chat rules](/chat-rules/#telegram)).
 
 When you write about a problem, tell us your hero's name and the app version (at the bottom of Settings).
 

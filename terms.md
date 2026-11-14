@@ -58,6 +58,8 @@ We change the game over time: balance, rewards, items and features. That can cha
 
 You are responsible for what you post: chat messages, the chalkboard, hero and table names. It must follow the [chat rules](/chat-rules/). You keep any rights you have in it, and you allow us to show it to the other players as part of the game, for as long as it is in the game.
 
+**The Telegram group** (t.me/heelandsteel) is an optional community space run on Telegram, under Telegram's terms and our [chat rules](/chat-rules/#telegram). What others post there, including links, is theirs, not ours: we remove what breaks the rules once we see it or are told, but we cannot check every message straight away, and we are not responsible for other people's messages or the websites they link to, as far as the law allows. Official news and support come only from the group's admins and from support@heelandsteel.com.
+
 ## 7. When rules are broken
 
 If you break these terms or the chat rules, we may remove content, warn you, limit what you can do in the game (for example, mute you in the chat or keep you out of brawls), reset progress gained by cheating, or close the account, depending on how serious it is. We tell you what we did and why, and you can ask us to look again by writing to [support@heelandsteel.com](mailto:support@heelandsteel.com) (see the chat rules).

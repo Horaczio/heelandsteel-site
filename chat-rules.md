@@ -8,7 +8,7 @@ permalink: /chat-rules/
 **Heel & Steel: Walking RPG**
 Last updated: 14 November 2026
 
-The pub tables are for walking together, cheering each other on and the occasional friendly brawl. These rules keep them that way. They apply to chat messages, the chalkboard, hero names and table names. By chatting you agree to them. They are part of the [terms of use](/terms/).
+The pub tables are for walking together, cheering each other on and the occasional friendly brawl. These rules keep them that way. They apply to chat messages, the chalkboard, hero names and table names, and to our [Telegram group](https://t.me/heelandsteel). By chatting you agree to them. They are part of the [terms of use](/terms/).
 
 ## Be a good table guest
 
@@ -53,6 +53,15 @@ If we act on something you posted, we tell you what we did and why, in the game'
 ## Disagree with a decision?
 
 Write to [support@heelandsteel.com](mailto:support@heelandsteel.com) within six months, with your hero's name, and tell us why. A person looks at it again and answers.
+
+## The Telegram group {#telegram}
+
+The [Telegram group](https://t.me/heelandsteel) is run on Telegram, so Telegram's own terms apply there too, and these rules on top. A few things are different from the game:
+
+- **We moderate it by hand,** so we do not see every message the moment it is posted. Report a message with Telegram's own Report button, or tell an admin or [support@heelandsteel.com](mailto:support@heelandsteel.com), and we remove it and the sender as soon as we can.
+- **Be careful with links.** Messages and links in the group are posted by other people, not by us. Do not open links you do not trust, and never type your Apple, Google or Telegram password or a login code anywhere because someone in the group asked.
+- **We never message you first** to ask for passwords, codes, payments or personal details, and support happens only at [support@heelandsteel.com](mailto:support@heelandsteel.com). Anyone who does is not us: report them.
+- **Your account and data stay out of the group.** For anything about your account, write to support, not to the group.
 
 ## Landlords and barkeeps
 
