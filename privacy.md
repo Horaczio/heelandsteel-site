@@ -6,7 +6,7 @@ permalink: /privacy/
 # Privacy policy
 
 **Heel & Steel: Walking RPG**
-Last updated: 14 November 2026
+Last updated: 15 November 2026
 
 This policy explains what Heel & Steel keeps about you, why, who else handles it, and what you can do about it.
 
@@ -19,7 +19,7 @@ Contact for anything about your data: [support@heelandsteel.com](mailto:support@
 ## The short version
 
 - The game needs an account, your hero, and your step counts. That is most of what we keep.
-- Steps come from Apple Health and your iPhone's motion sensor, **only with your permission** (the iPhone asks), and only the step count. We read nothing else from Apple Health, and we write nothing to it.
+- Steps come from Apple Health and your iPhone's motion sensor, **only with your clear OK**: the game asks before it reads a single step (and the iPhone asks too), and you can turn it off any time. Only the step count: we read nothing else from Apple Health, and we write nothing to it.
 - No ads, no tracking, no selling or sharing data for marketing. Ever.
 - You can download everything we keep (Settings > Download my data) and delete your account (Settings > Delete my hero and account) at any time.
 
@@ -44,8 +44,8 @@ We do not keep the name Apple or Google might share. You never give us a passwor
 - **What:** the number of steps you walk, as counted by Apple Health (from every source: your iPhone, a watch, fitness apps; steps you type in by hand are left out) and by the iPhone's motion sensor. We keep: today's total, the steps on your current quest, your weekly total for your pub table, and the steps you have walked on quests in all.
 - **What we do not keep:** where you walked, your route, your location, your heart rate, or any other Apple Health data. The game never asks for your location.
 - **Why:** steps are how the game is played. They complete quests, fill the brawl bank and count toward your table's weekly round. We also check that step counts are humanly possible, so nobody can cheat their way up the leaderboard.
-- **Legal basis:** running the game you asked to play (contract, GDPR Article 6(1)(b)): the game is played by walking, so it cannot work without step counts. We use step counts only as game numbers and never draw conclusions from them about your health or fitness.
-- **Your control:** the iPhone asks your permission before the game can read any steps, and you can take it back at any time in Settings > Health > Data Access & Devices > Heel & Steel, and Settings > Privacy & Security > Motion & Fitness. Without it the game cannot count your steps.
+- **Legal basis:** your explicit consent (GDPR Article 6(1)(a) and Article 9(2)(a)). Step counts from Apple Health can count as health data, so we treat them that way: before the game reads any steps it shows a "Counting your steps" card, and it counts only after you tap I agree. We keep a record of your answer (which wording, when you agreed, and when you turned it off) for as long as your account exists, to show that we asked. We use step counts only as game numbers and never draw conclusions from them about your health or fitness.
+- **Your control:** turn step counting off at any time in the game: Settings > Step counting. The game then reads no more steps and we delete your weekly step totals from the server; your hero keeps what it earned (to delete everything, delete your account). Turning it off does not undo what was done before. The game is played by walking, so without step counting quests make no progress. You can also take back the iPhone's own permissions in Settings > Health > Data Access & Devices > Heel & Steel, and Settings > Privacy & Security > Motion & Fitness.
 
 - **Live view:** when you start a walk with live view, the game runs an Apple Health workout session so it can follow your steps on the lock screen. The walk is not saved to Apple Health.
 
@@ -109,7 +109,7 @@ You can, at any time:
 - **Get a copy** of everything we keep about you: Settings > Download my data, or write to us.
 - **Correct** something that is wrong: write to us. (A hero's name or look can be changed only through support.)
 - **Delete** your account and data: Settings > Delete my hero and account. If you no longer have the app, write to us from the email address your account uses, or tell us your hero's name.
-- **Stop the game reading steps,** in the iPhone's settings (see "Your steps").
+- **Take back your consent to step counting** at any time: Settings > Step counting in the game (see "Your steps").
 - **Object** to what we do on the basis of legitimate interest, or ask us to **restrict** it.
 - **Take your data elsewhere:** Download my data gives you a standard, machine-readable file.
 
@@ -119,7 +119,7 @@ You can also complain to a data protection authority. In the Czech Republic that
 
 ## Children
 
-Heel & Steel is for players aged **13 and over**. We do not knowingly keep data about children under 13; if you think one is playing, write to us and we will delete the account. If you are a parent and have questions about your child's account, write to us.
+Heel & Steel is for players aged **16 and over**. We do not knowingly keep data about anyone younger; if you think someone under 16 is playing, write to us and we will delete the account. If you are a parent and have questions about your child's account, write to us.
 
 ## Security
 

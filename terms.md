@@ -6,7 +6,7 @@ permalink: /terms/
 # Terms of use
 
 **Heel & Steel: Walking RPG**
-Last updated: 14 November 2026
+Last updated: 15 November 2026
 
 These terms are the agreement between you and the maker of Heel & Steel when you play. By playing you accept them. They come with the [chat rules](/chat-rules/), the [privacy policy](/privacy/) (how we handle your data) and, once there is something to buy, the purchase terms.
 
@@ -18,7 +18,7 @@ The app itself is licensed to you under Apple's standard licence for App Store a
 
 ## 2. Who can play
 
-You must be **13 or older**. If you are under 18, make sure a parent or guardian is fine with you playing; anything you buy goes through their or your Apple account and Apple's rules. One account per person; your account is yours and may not be sold or given away.
+You must be **16 or older**. If you are under 18, make sure a parent or guardian is fine with you playing; anything you buy goes through their or your Apple account and Apple's rules. One account per person; your account is yours and may not be sold or given away.
 
 A guest hero (not saved with Apple or Google) lives only on its phone. If the phone is lost or the app is deleted, the hero cannot be recovered.
 

@@ -6,14 +6,14 @@ permalink: /chat-rules/
 # Chat rules
 
 **Heel & Steel: Walking RPG**
-Last updated: 14 November 2026
+Last updated: 15 November 2026
 
 The pub tables are for walking together, cheering each other on and the occasional friendly brawl. These rules keep them that way. They apply to chat messages, the chalkboard, hero names and table names, and to our [Telegram group](https://t.me/heelandsteel). By chatting you agree to them. They are part of the [terms of use](/terms/).
 
 ## Be a good table guest
 
 - **Be kind.** Banter is welcome; making someone feel bad is not.
-- **Keep it safe for everyone.** Players are 13 and over, from many countries, so some are teenagers.
+- **Keep it safe for everyone.** Players are 16 and over, from many countries, so some are teenagers.
 - **Keep to the game.** The chat is for your table, not for advertising.
 
 ## Not allowed
