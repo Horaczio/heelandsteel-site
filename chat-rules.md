@@ -34,8 +34,7 @@ The game hides common offensive words automatically. That does not make it fine 
 ## If someone breaks the rules
 
 - **Block them:** tap their message or open their profile, then Block. You no longer see their messages.
-- **Report them:** tap the message and choose Report message, or open their profile and tap Report. A person reads every report. 
- We look at reports as soon as we can, usually within a few days.
+- **Report them:** tap the message and choose Report message, or open their profile and tap Report. A person reads every report. We look at reports as soon as we can, usually within a few days.
 - If someone is in danger, contact the local emergency services first.
 
 ## What we do
