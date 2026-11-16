@@ -119,7 +119,7 @@ You can also complain to a data protection authority. In the Czech Republic that
 
 ## Children
 
-Heel & Steel is for players aged **16 and over**. Before you make a hero, the game asks for the month and year you were born. They are used only for that check and are not saved: we keep only that you passed it, and when. If you are under 16, the game tells you when you can come back and remembers that on your iPhone only; a hero made before the check is deleted with its account. We do not knowingly keep data about anyone younger than 16; if you think someone under 16 is playing, write to us and we will delete the account. If you are a parent and have questions about your child's account, write to us.
+Heel & Steel is for players aged **16 and over**. Before you make a hero, the game asks you to confirm that you are 16 or older. We keep only that you confirmed it, and when, to show that we asked (legal basis: our legal obligation to make sure consent comes from someone old enough, GDPR Article 6(1)(c) with Article 8). If you say you are younger, the game asks you to come back at 16 and remembers that on your iPhone only; a hero made before the check is deleted with its account. We do not knowingly keep data about anyone younger than 16; if you think someone under 16 is playing, write to us and we will delete the account. If you are a parent and have questions about your child's account, write to us.
 
 ## Security
 
